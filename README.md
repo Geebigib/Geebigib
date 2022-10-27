@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Geebigib
-- 👀 I’m interested in Coding!! and Data management
+- 👀 I’m interested in Coding!! and Data Science
 - 🌱 I’m currently learning Python, Data Science, Data Engineer
 
 <!---
